@@ -1,0 +1,11 @@
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.csproj.AssemblyReference.cache
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.Form1.resources
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.Properties.Resources.resources
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.csproj.GenerateResource.cache
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.AssemblyInfoInputs.cache
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.AssemblyInfo.cs
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.csproj.CoreCompileInputs.cache
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.dll
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\refint\firstgame.dll
+C:\Users\sai\Desktop\c#\firstgame\firstgame\obj\Debug\net6.0-windows\firstgame.pdb
